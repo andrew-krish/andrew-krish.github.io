@@ -29,10 +29,15 @@ main {
 	background-color: #efefef;
 	padding: 10px;
 	margin: 10px;
-	float: left;
+	width: 600px;
 }
 
-
+article {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 600px;
+}
 
 
 
