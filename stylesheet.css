@@ -1,5 +1,5 @@
 *{
-	font-family: Arial, Verdana, sans-serif;
+	font: Helvetica;
 	color: #665544;
 	text-align: center;
 }
@@ -39,10 +39,21 @@ article {
 	width: 600px;
 }
 
-
+aside {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 250px;
+	float: right;
+	text-align: vertical;
+}
 
 footer {
 		background-color: #efefef;
 	padding: 10px;
 	margin: 10px;
+}
+
+.mart {
+	background-color: #F97188;
 }
