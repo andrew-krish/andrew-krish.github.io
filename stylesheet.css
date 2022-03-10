@@ -1,7 +1,23 @@
 *{
-	font: Helvetica;
+	font: Helvetica, serif;
 	color: #665544;
 	text-align: center;
+	background-color: #efefef
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 24px;
+}
+p {
+	font-size: 16px;
 }
 
 body {
@@ -10,7 +26,7 @@ body {
 }
 
 nav {
-	background-color: #efefef;
+	background-color: #ffffff;
 	padding: 10px;
 	margin: 10px;
 }
@@ -26,34 +42,46 @@ section {
 }
 
 main {
-	background-color: #efefef;
+	background-color: #ffffff;
+	font: 18;
 	padding: 10px;
 	margin: 10px;
-	width: 600px;
+	width: 920px;
 }
 
 article {
-	background-color: #efefef;
+	background-color: #ffffff;
 	padding: 10px;
 	margin: 10px;
-	width: 600px;
+	width: 450px;
+	float: left;
 }
 
 aside {
-	background-color: #efefef;
+	background-color: #ffffff;
 	padding: 10px;
 	margin: 10px;
 	width: 250px;
-	float: right;
-	text-align: vertical;
+	display: inline;
+	float: center;
 }
 
 footer {
-		background-color: #efefef;
+		background-color: #ffffff;
 	padding: 10px;
 	margin: 10px;
 }
 
 .mart {
 	background-color: #F97188;
+}
+
+.mart2 {
+	width: 500px;
+}
+
+.mart3 {
+	background-color: #efefef;
+	padding:10px;
+	margin: 0px;
 }
