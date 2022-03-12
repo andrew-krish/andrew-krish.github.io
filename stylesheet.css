@@ -88,10 +88,22 @@ footer {
 
 .mart4 {
 	display: inline;
-	padding: 0px;
-	margin: 10px;
+	overflow: hidden;
+	padding: 5px;
+	margin: 15px;
+	background-color: #ffffff;
 }
 
-.mart5 {
-	display: inline-block;
+.mart6 {
+	background-color: #ffffff;
+}
+
+.mart7 {
+	float: right;
+	width: 425px;
+}
+
+.mart8 {
+	background-color: #ffffff;
+	float:center;
 }
