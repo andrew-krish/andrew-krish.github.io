@@ -31,11 +31,6 @@ nav {
 	margin: 10px;
 }
 
-li {
-	display: inline;
-	padding: 5px;
-}
-
 section {
 	overflow: auto;
 	height: 100%;
