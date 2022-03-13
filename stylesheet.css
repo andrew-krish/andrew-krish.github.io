@@ -67,13 +67,9 @@ aside {
 }
 
 footer {
-		background-color: #ffffff;
+	background-color: #ffffff;
 	padding: 10px;
 	margin: 10px;
-}
-
-.mart {
-	background-color: #F97188;
 }
 
 .mart2 {
@@ -92,6 +88,12 @@ footer {
 	padding: 5px;
 	margin: 15px;
 	background-color: #ffffff;
+}
+
+.mart5 {
+	background-color: #ffffff;
+	margin: 20px;
+	
 }
 
 .mart6 {
