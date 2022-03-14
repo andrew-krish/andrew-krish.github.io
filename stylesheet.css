@@ -85,15 +85,14 @@ footer {
 .mart4 {
 	display: inline;
 	overflow: hidden;
-	padding: 5px;
-	margin: 15px;
+	padding: 0px;
+	margin: 10px;
 	background-color: #ffffff;
 }
 
 .mart5 {
 	background-color: #ffffff;
-	margin: 20px;
-	
+	margin: 15px;
 }
 
 .mart6 {
@@ -108,4 +107,14 @@ footer {
 .mart8 {
 	background-color: #ffffff;
 	float:center;
+}
+
+.mart9 {
+	background-color: #ffffff;
+	margin: 15px;
+}
+
+.mart10 {
+	background-color: #ffffff;
+	margin: 25px;
 }
