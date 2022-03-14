@@ -101,7 +101,8 @@ footer {
 
 .mart7 {
 	float: right;
-	width: 425px;
+	width: 350px;
+	padding: 66px;
 }
 
 .mart8 {
@@ -118,3 +119,22 @@ footer {
 	background-color: #ffffff;
 	margin: 25px;
 }
+
+.mart11 {
+	background-color: #ffffff;
+	float: left;
+	width: 410px;
+}
+
+.mart12 {
+	float: right;
+	background-color: #efefef;
+	padding: 0px;
+}
+
+.mart13 {
+	background-color: #efefef;
+	padding: 0px;
+	float: left;
+}
+	
